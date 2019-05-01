@@ -1,0 +1,8 @@
+Origin: linux-downey.github.io
+Label: linux-downey.github.io
+Codename: xenial
+Architectures: i386 amd64 source
+Components: main
+Description: test repo
+SignWith:4F67BEFA
+

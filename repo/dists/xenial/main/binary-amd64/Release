@@ -1,0 +1,5 @@
+Component: main
+Origin: linux-downey.github.io
+Label: linux-downey.github.io
+Architecture: amd64
+Description: test repo

@@ -1,0 +1,17 @@
+Package: debhello
+Version: 1.0.0-1
+Architecture: amd64
+Maintainer: downeyboy <linux_downey@sina.com>
+Installed-Size: 17
+Depends: libc6 (>= 2.2.5)
+Multi-Arch: foreign
+Homepage: https://github.com/
+Priority: optional
+Section: main
+Filename: pool/main/d/debhello/debhello_1.0.0-1_amd64.deb
+Size: 2928
+SHA256: b27dd58934f9da4ae4e98d5d98ddf817eb328937508e08c73ad895e528e38886
+SHA1: e6867767a543b4fe0f51122d0ddeb01f1f54b839
+MD5sum: c472f891586f4ffd92bdf3b7c13c58a6
+Description: debhello package,just for test!
+
